@@ -1,20 +1,26 @@
-This is a cool web app integrated with twitter which takes the twitter handel as as input and does :
+A web app integrated with twitter which takes the live tweets as an input and does :
 
-1. Analyze the tweets of live Air India's customer tweets
+**1. Analyze the tweets of live Air India's customer tweets**
 
-**This tool performs the following tasks :**
+This tool performs the following tasks :
 
-Fetches the most recent tweets from the given twitter handel
+a) Fetches the most recent tweets from the given twitter handel
 
-Performs Sentiment Analysis a displays it in form of a Bar Graph
+b) Performs Sentiment Analysis a displays it in form of a Bar Graph
 
-2. This tool fetches the last 100 tweets from the twitter handel & Performs the following tasks Converts it into a DataFrame
+**2. This tool fetches the last 100 tweets from the twitter handel & Performs the following tasks :**
 
-Cleans the text
+a) Converts it into a DataFrame
 
-Analyzes Subjectivity of tweets and adds an additional column for it
-Analyzes Polarity of tweets and adds an additional column for it
-Analyzes Sentiments of tweets and adds an additional column for it
+b) Cleans the text
+
+c) Analyzes Subjectivity of tweets and adds an additional column for it
+
+d) Analyzes Polarity of tweets and adds an additional column for it
+
+e) Analyzes Sentiments of tweets and adds an additional column for it
+
+**Other files: *
 
 **Procfile** : To generate command to run the app
 
@@ -26,7 +32,7 @@ Analyzes Sentiments of tweets and adds an additional column for it
 
 **setup.sh** : predefined file for streamlit on heroku
 
-This app is created on a tool called Streamlit, Install it by: Streamlit documentation: https://docs.streamlit.io/en/latest/
+This app is created on a tool called Streamlit, Installed it by: Streamlit documentation: https://docs.streamlit.io/en/latest/
 
 **pip install streamlit**
 
