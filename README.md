@@ -1,6 +1,6 @@
 This is a cool web app integrated with twitter which takes the twitter handel as as input and does :
 
-1. Analyze the tweets of live air asia's customer tweets 
+1. Analyze the tweets of live Air India's customer tweets
 
 **This tool performs the following tasks :**
 
@@ -22,11 +22,11 @@ Analyzes Sentiments of tweets and adds an additional column for it
 
 **Twitter Data** : File created after every query on the web app
 
-**Requirements.txt** : Requirement file
+**requirements.txt** : Requirement file
 
 **setup.sh** : predefined file for streamlit on heroku
 
-This app is created on a tool called Streamlit which saves you from the headache of front-end devlopment ,you can install it by: Streamlit documentation: https://docs.streamlit.io/en/latest/
+This app is created on a tool called Streamlit, Install it by: Streamlit documentation: https://docs.streamlit.io/en/latest/
 
 **pip install streamlit**
 
