@@ -1,6 +1,6 @@
 A web app integrated with twitter which takes the live tweets as an input and does :
 
-**1. Analyze the tweets of live Air India's customer tweets**
+# 1. Analyze the tweets of live Air India's customer tweets
 
 This tool performs the following tasks :
 
@@ -8,7 +8,7 @@ a) Fetches the most recent tweets from the given twitter handel
 
 b) Performs Sentiment Analysis a displays it in form of a Bar Graph
 
-**2. This tool fetches the last 100 tweets from the twitter handel & Performs the following tasks :**
+# 2. This tool fetches the last 100 tweets from the twitter handel & Performs the following tasks :**
 
 a) Converts it into a DataFrame
 
@@ -20,7 +20,7 @@ d) Analyzes Polarity of tweets and adds an additional column for it
 
 e) Analyzes Sentiments of tweets and adds an additional column for it
 
-**Other files**
+# Other files
 
 **Procfile** : To generate command to run the app
 
