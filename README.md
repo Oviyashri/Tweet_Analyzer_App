@@ -20,7 +20,7 @@ d) Analyzes Polarity of tweets and adds an additional column for it
 
 e) Analyzes Sentiments of tweets and adds an additional column for it
 
-**Other files: *
+**Other files**
 
 **Procfile** : To generate command to run the app
 
