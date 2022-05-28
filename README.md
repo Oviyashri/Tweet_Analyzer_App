@@ -8,7 +8,7 @@ a) Fetches the most recent tweets from the given twitter handel
 
 b) Performs Sentiment Analysis a displays it in form of a Bar Graph
 
-# 2. This tool fetches the last 100 tweets from the twitter handel & Performs the following tasks :**
+# 2. This tool fetches the last 100 tweets from the twitter handel & Performs the following tasks :
 
 a) Converts it into a DataFrame
 
