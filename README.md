@@ -30,7 +30,7 @@ e) Analyzes Sentiments of tweets and adds an additional column for it
 
 **requirements.txt** : Requirement file
 
-**setup.sh** : predefined file for streamlit on heroku
+**setup.sh** : predefined file for streamlit 
 
 This app is created on a tool called Streamlit, Installed it by: Streamlit documentation: https://docs.streamlit.io/en/latest/
 
